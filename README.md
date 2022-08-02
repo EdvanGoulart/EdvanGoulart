@@ -1,6 +1,5 @@
 Olá! Fique a vontade ☕❤️
 
-- 🔭 Atualmente estou a procura de uma oportunidade na área de Desenvolvimento.
 - 🌱 Estudando JavaScript e React no momento.
 - 📫 Gmail: edvangoulart76@gmail.com
 
