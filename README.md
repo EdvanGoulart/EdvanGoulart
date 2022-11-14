@@ -1,6 +1,5 @@
 Olá! Fique a vontade ☕❤️
 
-- 🌱 Estudando JavaScript e React no momento.
 - 📫 Gmail: edvangoulart76@gmail.com
 
 <div align="center">
