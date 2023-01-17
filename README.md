@@ -3,9 +3,7 @@ Olá! Fique a vontade ☕❤️
 - 📫 Gmail: edvangoulart76@gmail.com
 
 <div align="center">
-  <a href="https://github.com/EdvanGoulart">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EdvanGoulart&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvanGoulart&layout=compact&langs_count=7&theme=aura"/>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </div>
   
  <div style="display: inline_block"><br>
